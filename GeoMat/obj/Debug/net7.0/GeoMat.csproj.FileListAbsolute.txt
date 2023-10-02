@@ -1,0 +1,12 @@
+/home/sekai02/Documents/School/1ro/2do semestre/Algebra/BibliotecaGeometria/GeoMat/bin/Debug/net7.0/GeoMat.deps.json
+/home/sekai02/Documents/School/1ro/2do semestre/Algebra/BibliotecaGeometria/GeoMat/bin/Debug/net7.0/GeoMat.dll
+/home/sekai02/Documents/School/1ro/2do semestre/Algebra/BibliotecaGeometria/GeoMat/bin/Debug/net7.0/GeoMat.pdb
+/home/sekai02/Documents/School/1ro/2do semestre/Algebra/BibliotecaGeometria/GeoMat/obj/Debug/net7.0/GeoMat.csproj.AssemblyReference.cache
+/home/sekai02/Documents/School/1ro/2do semestre/Algebra/BibliotecaGeometria/GeoMat/obj/Debug/net7.0/GeoMat.GeneratedMSBuildEditorConfig.editorconfig
+/home/sekai02/Documents/School/1ro/2do semestre/Algebra/BibliotecaGeometria/GeoMat/obj/Debug/net7.0/GeoMat.AssemblyInfoInputs.cache
+/home/sekai02/Documents/School/1ro/2do semestre/Algebra/BibliotecaGeometria/GeoMat/obj/Debug/net7.0/GeoMat.AssemblyInfo.cs
+/home/sekai02/Documents/School/1ro/2do semestre/Algebra/BibliotecaGeometria/GeoMat/obj/Debug/net7.0/GeoMat.csproj.CoreCompileInputs.cache
+/home/sekai02/Documents/School/1ro/2do semestre/Algebra/BibliotecaGeometria/GeoMat/obj/Debug/net7.0/GeoMat.dll
+/home/sekai02/Documents/School/1ro/2do semestre/Algebra/BibliotecaGeometria/GeoMat/obj/Debug/net7.0/refint/GeoMat.dll
+/home/sekai02/Documents/School/1ro/2do semestre/Algebra/BibliotecaGeometria/GeoMat/obj/Debug/net7.0/GeoMat.pdb
+/home/sekai02/Documents/School/1ro/2do semestre/Algebra/BibliotecaGeometria/GeoMat/obj/Debug/net7.0/ref/GeoMat.dll

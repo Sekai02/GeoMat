@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "ShowCase/1.0.0": {
+        "dependencies": {
+          "GeoMat": "1.0.0"
+        },
+        "runtime": {
+          "ShowCase.dll": {}
+        }
+      },
+      "GeoMat/1.0.0": {
+        "runtime": {
+          "GeoMat.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ShowCase/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "GeoMat/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
